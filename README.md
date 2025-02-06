@@ -1,3 +1,4 @@
+![Retail Sales and Profit Insights ss](https://github.com/user-attachments/assets/af3d428d-2437-42fd-a32f-af32640bcfbf)
 # Retail Sales & Profit Insights
 
 ## [Tableau Dashboard](https://public.tableau.com/views/RetailSalesandProfitInsights/RetailSalesProfitInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
