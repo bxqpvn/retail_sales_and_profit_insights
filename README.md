@@ -1,8 +1,9 @@
 ## [Tableau Dashboard](https://public.tableau.com/views/RetailSalesandProfitInsights/RetailSalesProfitInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-![Retail Sales and Profit Insights ss](https://github.com/user-attachments/assets/af3d428d-2437-42fd-a32f-af32640bcfbf)
+## [Youtube Video](https://youtu.be/dTMMvj6R75Y)
 
 # RETAIL SALES & PROFIT INSIGHTS
+
+![Retail Sales and Profit Insights ss](https://github.com/user-attachments/assets/af3d428d-2437-42fd-a32f-af32640bcfbf)
 
 
 ## Project Overview
